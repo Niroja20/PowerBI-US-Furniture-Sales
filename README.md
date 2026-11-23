@@ -3,7 +3,7 @@
 An end-to-end Power BI project with four interactive dashboards built on the US Furniture Sales dataset, covering sales performance, regional targets, sub-category insights, and monthly trends.
 
 ## Dashboard 1: Executive Dashboard
-![Executive Dashboard](images/02-executive-dashboard.png.jpeg)
+![Executive Dashboard](02-executive-dashboard.png.jpeg)
 
 **KPIs:** Revenue 9.89M | Profit 286.40K | Discount 1.56K | Quantity Sold 38K | Products 17
 
@@ -14,7 +14,7 @@ An end-to-end Power BI project with four interactive dashboards built on the US 
 - Revenue grew steadily from about 2M in 2018 to about 3.1M in 2021.
 
 ## Dashboard 2: Detailed Sales Report
-![Detailed Sales Report](images/03-detailed-sales-report.png)
+![Detailed Sales Report](03-detailed-sales-report.png.jpeg)
 
 - Table with profit trend indicators, quantity data bars, and a sales colour scale.
 - Tables has the biggest loss (-17,725.48 profit) despite about 905K in sales.
@@ -22,13 +22,13 @@ An end-to-end Power BI project with four interactive dashboards built on the US 
 - Column chart of actual vs target by region, with DAX conditional colour coding (green = target met, red = below target).
 
 ## Dashboard 3: Monthly Sales Calendar
-![Monthly Sales Calendar](images/01-monthly-sales-calendar.png)
+![Monthly Sales Calendar](01-monthly-sales-calendar.png.jpeg)
 
 - Calendar heatmap of daily revenue, with Year and Month slicers.
 - Makes it easy to spot peak days and slow days.
 
 ## Dashboard 4: Branch Office – Employee & Sales
-![Branch Office Employee and Sales](images/04-branch-office-employee-sales.png)
+![Branch Office Employee and Sales](04-branch-office-employee-sales.png.jpeg)
 
 - Employee-level sales table (units sold, sales value) with Year and Month slicers.
 
