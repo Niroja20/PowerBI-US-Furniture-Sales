@@ -3,7 +3,7 @@
 An end-to-end Power BI project with four interactive dashboards built on the US Furniture Sales dataset, covering sales performance, regional targets, sub-category insights, and monthly trends.
 
 ## Dashboard 1: Executive Dashboard
-02-executive-dashboard.png.jpeg
+![Executive Dashboard](images/02-executive-dashboard.png.jpeg)
 
 **KPIs:** Revenue 9.89M | Profit 286.40K | Discount 1.56K | Quantity Sold 38K | Products 17
 
